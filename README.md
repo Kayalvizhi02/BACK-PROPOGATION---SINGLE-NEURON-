@@ -24,17 +24,6 @@ Test data is data which has been specifically identified for use in tests, typic
 ### Backward propagation:
 Backpropagation (backward propagation) is an important mathematical tool for improving the accuracy of predictions in data mining and machine learning. Essentially, backpropagation is an algorithm used to calculate derivatives quickly.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## ALGORITHM:
 
 1. Inputs X, arrive through the preconnected path.
@@ -44,37 +33,6 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 5. Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased.
 
    Keep repeating the process until the desired output is achieved.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## PROGRAM:
