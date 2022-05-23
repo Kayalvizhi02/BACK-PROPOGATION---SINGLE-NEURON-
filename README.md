@@ -22,8 +22,18 @@ Training data is an extremely large dataset that is used to teach a machine lear
 Test data is data which has been specifically identified for use in tests, typically of a computer program. Some data may be used in a confirmatory way, typically to verify that a given set of input to a given function produces some expected result.
 
 ### Backward propagation:
-
 Backpropagation (backward propagation) is an important mathematical tool for improving the accuracy of predictions in data mining and machine learning. Essentially, backpropagation is an algorithm used to calculate derivatives quickly.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## ALGORITHM:
 
@@ -35,10 +45,44 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 
    Keep repeating the process until the desired output is achieved.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## PROGRAM:
-### Program to implement random classification.
-### Developed by : KAYALVIZHI M
-### Register Number : 212220230024
+```
+Program to implement random classification.
+Developed by : KAYALVIZHI M
+Register Number : 212220230024
+```
 ```python
 import numpy as np
 i=1.5    
